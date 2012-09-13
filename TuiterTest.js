@@ -1,9 +1,9 @@
 var Tuiter = require('tuiter');
 var tu = new Tuiter({
-    "consumer_key" : "SQlwPAZ4rpUx9p1UeGOMnA"
-  , "consumer_secret" : "UGTeFUiyqrbJZMRMM2N8cwxcK56hF4zfs2PzsAyJA" 
-  , "access_token_key" : "310060665-O2XfwgXJNOk10CIhhS5oNfxq9WisTsV0ls0Lg5Pc"
-  , "access_token_secret" : "fCV7HLuMyw3JsqQFz1PmJHdC3i1GSIO26sQqfQNQ"
+    "consumer_key" : ""
+  , "consumer_secret" : "" 
+  , "access_token_key" : ""
+  , "access_token_secret" : ""
     });
 
 var util = require('util');
